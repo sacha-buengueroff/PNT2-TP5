@@ -1,4 +1,4 @@
-# pnt2-tp5
+# PNT2-TP5
 
 ## Project setup
 ```
